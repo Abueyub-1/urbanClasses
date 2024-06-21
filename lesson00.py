@@ -7,6 +7,6 @@ print('Hello, ' + 'world!')  # вычитать строки нельзя
 # print('1' + 1) нельзя на питоне складывать разные типы
 print(True, False)  # boolean
 print(type(True), type(False))
-print(5 > 10)
+print(10 > 10)
 
 
